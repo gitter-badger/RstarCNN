@@ -1,4 +1,6 @@
 # R\*CNN
+
+[![Join the chat at https://gitter.im/anguoyang/RstarCNN](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/anguoyang/RstarCNN?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Source code for R\*CNN, created by Georgia Gkioxari at UC Berkeley.
 
 ### Introduction
